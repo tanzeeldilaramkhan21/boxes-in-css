@@ -1,3 +1,145 @@
-h1{
-    color: red;
+/* box dimensions */
+ /* div{
+    height: 300px;
+width: 300px;
+background-color: #bbbbaa;
+height: 200px;
+width: 200px;
+background-color: wheat;
+ } */
+/* limiting width */
+td.description{
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
 }
+/* limiting height */
+/* h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;}
+    h2 {
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;}
+    p {
+    min-height: 200px;
+    max-height: 30px;
+    border: 1px solid red
+    } */
+    /* overflow */
+    /* p{
+        max-height: 30px;
+        border: 1px solid red;
+        overflow: hidden;} */
+        /* border width */
+        /* p{
+            border-style: solid;
+            border-width: thick;
+        } */
+         /* top right bottom left */
+       /* p{
+            border-style: solid;
+            border-width: 1px 2px 3px 4px;
+        } */
+        /* border style */
+        /* solid, dashed, dotted, double, groove etc */
+    /* p{
+            border-style: groove;
+        } */
+        /* border color */
+       /* p{
+        border-style: dotted;
+        border-color: red;
+       } */
+       /* padding */
+       /* p{
+        border: 2px solid red;
+        padding: 10px 20px 30px 40px;
+       } */
+       /* margin */
+       /* p{
+        border: 1px solid red;
+        margin: 2px 4px 50px 10px;
+       } */
+       /* centering content */
+       /* p{
+        border: 2px solid red;
+        width: 300px;
+        padding: 50px;
+       }
+       p.example {
+        margin: 10px auto 10px auto;
+        text-align: left;} */
+        /* change inline/ block */
+        /* li{
+            display: inline;
+            margin-right:  10px;
+        }
+        li.coming-soon {
+         display: none;
+
+        } */
+        /*hiding boxes */
+
+        /* li{
+            display: inline;
+            margin-right:  10px;
+        }
+        li.coming-soon {
+        visibility: hidden;
+        } */
+        /* border images */
+       /* .one{
+        border: 10px solid transparent;
+        border-image: url(./border-images/dot-image.jpg) 30 round;
+       } */
+       /* box shadows */
+       /* p.one {
+        -moz-box-shadow: -5px -5px #777777;
+        -webkit-box-shadow: -5px -5px #777777;
+        box-shadow: -5px -5px #777777;} */
+        /* rounded corners */
+        p {
+            border: 5px solid #cccccc;
+            padding: 20px;
+            width: 275px;
+            text-align: center;
+            border-radius: 10px;
+            -moz-border-radius: 10px;
+            -webkit-border-radius: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
